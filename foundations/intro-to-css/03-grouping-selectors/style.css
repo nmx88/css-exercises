@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.firstClick {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.secondClick {
+  background-color: #ffff00;
+}
+
+.firstClick,
+.secondClick {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
